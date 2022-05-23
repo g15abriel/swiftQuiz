@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>A0BB86EC-48E9-49F8-9612-D790749BB39E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>A0BB86EC-48E9-49F8-9612-D790749BB39E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>MyEmotion-hjsoecaxrdnnnvfjyoakndjblaos</string>
+			<key>timeStartedRecording</key>
+			<real>664119678.06367505</real>
+			<key>timeStoppedRecording</key>
+			<real>664119685.34181595</real>
+			<key>title</key>
+			<string>Build target MyEmotion</string>
+			<key>uniqueIdentifier</key>
+			<string>A0BB86EC-48E9-49F8-9612-D790749BB39E</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

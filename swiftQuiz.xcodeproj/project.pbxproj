@@ -13,6 +13,10 @@
 		E77769DF275B8F15000D554D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E77769DD275B8F15000D554D /* Main.storyboard */; };
 		E77769E1275B8F17000D554D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E77769E0275B8F17000D554D /* Assets.xcassets */; };
 		E77769E4275B8F17000D554D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E77769E2275B8F17000D554D /* LaunchScreen.storyboard */; };
+		E77769EC275B9B59000D554D /* QuizViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E77769EB275B9B59000D554D /* QuizViewController.swift */; };
+		E77769EE275B9F68000D554D /* Quiz.swift in Sources */ = {isa = PBXBuildFile; fileRef = E77769ED275B9F68000D554D /* Quiz.swift */; };
+		E77769F0275B9FB3000D554D /* QuizManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E77769EF275B9FB3000D554D /* QuizManager.swift */; };
+		E7FB4AFA27676C0F006D53E8 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7FB4AF927676C0F006D53E8 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +28,10 @@
 		E77769E0275B8F17000D554D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E77769E3275B8F17000D554D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E77769E5275B8F17000D554D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E77769EB275B9B59000D554D /* QuizViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizViewController.swift; sourceTree = "<group>"; };
+		E77769ED275B9F68000D554D /* Quiz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quiz.swift; sourceTree = "<group>"; };
+		E77769EF275B9FB3000D554D /* QuizManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizManager.swift; sourceTree = "<group>"; };
+		E7FB4AF927676C0F006D53E8 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +68,10 @@
 				E77769D9275B8F15000D554D /* SceneDelegate.swift */,
 				E77769DB275B8F15000D554D /* ViewController.swift */,
 				E77769DD275B8F15000D554D /* Main.storyboard */,
+				E7FB4AF927676C0F006D53E8 /* ResultViewController.swift */,
+				E77769EB275B9B59000D554D /* QuizViewController.swift */,
+				E77769ED275B9F68000D554D /* Quiz.swift */,
+				E77769EF275B9FB3000D554D /* QuizManager.swift */,
 				E77769E0275B8F17000D554D /* Assets.xcassets */,
 				E77769E2275B8F17000D554D /* LaunchScreen.storyboard */,
 				E77769E5275B8F17000D554D /* Info.plist */,
@@ -139,8 +151,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				E77769DC275B8F15000D554D /* ViewController.swift in Sources */,
+				E77769EE275B9F68000D554D /* Quiz.swift in Sources */,
+				E7FB4AFA27676C0F006D53E8 /* ResultViewController.swift in Sources */,
 				E77769D8275B8F15000D554D /* AppDelegate.swift in Sources */,
 				E77769DA275B8F15000D554D /* SceneDelegate.swift in Sources */,
+				E77769F0275B9FB3000D554D /* QuizManager.swift in Sources */,
+				E77769EC275B9B59000D554D /* QuizViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -287,25 +303,35 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 242K96KV28;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = swiftQuiz/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = swiftQuiz;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIMainStoryboardFile = LaunchScreen;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortraitUpsideDown;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.ICBEU.swiftQuiz;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = br.com.icbeu.swiftQuiz;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Debug;
 		};
@@ -314,25 +340,35 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 242K96KV28;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = swiftQuiz/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = swiftQuiz;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIMainStoryboardFile = LaunchScreen;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortraitUpsideDown;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.ICBEU.swiftQuiz;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = br.com.icbeu.swiftQuiz;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Release;
 		};

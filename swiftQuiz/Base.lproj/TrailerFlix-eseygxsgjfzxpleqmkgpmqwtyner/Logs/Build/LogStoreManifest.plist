@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>97556F55-E62F-4D02-995B-D44749CFCEEE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>97556F55-E62F-4D02-995B-D44749CFCEEE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TrailerFlix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TrailerFlix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TrailerFlix</string>
+			<key>timeStartedRecording</key>
+			<real>663788724.03012204</real>
+			<key>timeStoppedRecording</key>
+			<real>663788724.10672402</real>
+			<key>title</key>
+			<string>Build TrailerFlix</string>
+			<key>uniqueIdentifier</key>
+			<string>97556F55-E62F-4D02-995B-D44749CFCEEE</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

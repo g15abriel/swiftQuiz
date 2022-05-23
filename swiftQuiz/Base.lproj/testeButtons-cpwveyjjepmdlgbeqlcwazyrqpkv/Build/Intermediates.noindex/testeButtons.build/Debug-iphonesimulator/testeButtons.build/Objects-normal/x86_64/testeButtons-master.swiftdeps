@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1643634795, 550277948]
+build_end_time: [1643634796, 444942951]
+inputs:
+  "/Users/claudiamalheiros/Documents/IOS/testeButtons/testeButtons/AppDelegate.swift": [1643633789, 992218017]
+  "/Users/claudiamalheiros/Documents/IOS/testeButtons/testeButtons/SceneDelegate.swift": [1643633790, 7753372]
+  "/Users/claudiamalheiros/Documents/IOS/testeButtons/testeButtons/ViewController.swift": [1643634793, 362741470]

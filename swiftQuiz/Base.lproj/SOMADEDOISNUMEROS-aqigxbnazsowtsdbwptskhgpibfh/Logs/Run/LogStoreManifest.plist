@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>26453D39-F70C-4742-AAC3-25B7A531D242</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>26453D39-F70C-4742-AAC3-25B7A531D242.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SOMADEDOISNUMEROS project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SOMADEDOISNUMEROS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run SOMADEDOISNUMEROS</string>
+			<key>timeStartedRecording</key>
+			<real>665523217.43476605</real>
+			<key>timeStoppedRecording</key>
+			<real>665523348.65059197</real>
+			<key>title</key>
+			<string>Run SOMADEDOISNUMEROS</string>
+			<key>uniqueIdentifier</key>
+			<string>26453D39-F70C-4742-AAC3-25B7A531D242</string>
+		</dict>
+		<key>A8ACB72A-6713-4917-B717-131973DF6044</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A8ACB72A-6713-4917-B717-131973DF6044.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SOMADEDOISNUMEROS project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SOMADEDOISNUMEROS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run SOMADEDOISNUMEROS</string>
+			<key>timeStartedRecording</key>
+			<real>665523153.74029505</real>
+			<key>timeStoppedRecording</key>
+			<real>665523200.85656404</real>
+			<key>title</key>
+			<string>Run SOMADEDOISNUMEROS</string>
+			<key>uniqueIdentifier</key>
+			<string>A8ACB72A-6713-4917-B717-131973DF6044</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

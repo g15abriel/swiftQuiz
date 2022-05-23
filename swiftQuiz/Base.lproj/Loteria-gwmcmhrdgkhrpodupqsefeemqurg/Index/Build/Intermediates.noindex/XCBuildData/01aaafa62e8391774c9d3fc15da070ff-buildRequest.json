@@ -1,0 +1,59 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "dd642aea55307f695e50a7426396e6c27e5bddb1ecf32c186c6c6e4b5167515c"
+    }
+  ],
+  "containerPath" : "/Users/claudiamalheiros/Documents/IOS/Coding Club/Loteria/Loteria.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj/Loteria-gwmcmhrdgkhrpodupqsefeemqurg/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj/Loteria-gwmcmhrdgkhrpodupqsefeemqurg/Index/Build/Products",
+      "derivedDataPath" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj",
+      "indexDataStoreFolderPath" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj/Loteria-gwmcmhrdgkhrpodupqsefeemqurg/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj/Loteria-gwmcmhrdgkhrpodupqsefeemqurg/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj/Loteria-gwmcmhrdgkhrpodupqsefeemqurg/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj/Loteria-gwmcmhrdgkhrpodupqsefeemqurg/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

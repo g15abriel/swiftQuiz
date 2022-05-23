@@ -1,0 +1,59 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "10a65740e2db5455770d8f09ee325a858d6b77ee7764ec6a82968ddbb2832edf"
+    }
+  ],
+  "containerPath" : "/Users/claudiamalheiros/Documents/IOS/teste3/teste3.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj/teste3-fxacjqwuseyzjjcmpsaeijwhnwoq/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj/teste3-fxacjqwuseyzjjcmpsaeijwhnwoq/Index/Build/Products",
+      "derivedDataPath" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj",
+      "indexDataStoreFolderPath" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj/teste3-fxacjqwuseyzjjcmpsaeijwhnwoq/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj/teste3-fxacjqwuseyzjjcmpsaeijwhnwoq/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj/teste3-fxacjqwuseyzjjcmpsaeijwhnwoq/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj/teste3-fxacjqwuseyzjjcmpsaeijwhnwoq/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>12A34129-F071-406D-82E6-2F04DFF50BA7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>12A34129-F071-406D-82E6-2F04DFF50BA7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Soma project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Soma</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Soma</string>
+			<key>timeStartedRecording</key>
+			<real>664116728.12948596</real>
+			<key>timeStoppedRecording</key>
+			<real>664116778.14214098</real>
+			<key>title</key>
+			<string>Run Soma</string>
+			<key>uniqueIdentifier</key>
+			<string>12A34129-F071-406D-82E6-2F04DFF50BA7</string>
+		</dict>
+		<key>54C17CA2-349D-4E6F-A83E-E7D4EC1B9DCA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>54C17CA2-349D-4E6F-A83E-E7D4EC1B9DCA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Soma project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Soma</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Soma</string>
+			<key>timeStartedRecording</key>
+			<real>664116636.56261694</real>
+			<key>timeStoppedRecording</key>
+			<real>664116700.88982797</real>
+			<key>title</key>
+			<string>Run Soma</string>
+			<key>uniqueIdentifier</key>
+			<string>54C17CA2-349D-4E6F-A83E-E7D4EC1B9DCA</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>75F56FC7-3A72-41A8-A5BB-649FC4D0F8BC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>75F56FC7-3A72-41A8-A5BB-649FC4D0F8BC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>caretas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>caretas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build caretas</string>
+			<key>timeStartedRecording</key>
+			<real>664479282.32077098</real>
+			<key>timeStoppedRecording</key>
+			<real>664479293.28819704</real>
+			<key>title</key>
+			<string>Build caretas</string>
+			<key>uniqueIdentifier</key>
+			<string>75F56FC7-3A72-41A8-A5BB-649FC4D0F8BC</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

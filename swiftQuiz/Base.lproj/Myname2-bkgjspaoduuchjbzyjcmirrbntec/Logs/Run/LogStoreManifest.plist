@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>1B64AB53-0F80-4800-AFA4-110BE8C3A846</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1B64AB53-0F80-4800-AFA4-110BE8C3A846.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Myname2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Myname2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Myname2</string>
+			<key>timeStartedRecording</key>
+			<real>665948715.96957803</real>
+			<key>timeStoppedRecording</key>
+			<real>665948746.725739</real>
+			<key>title</key>
+			<string>Run Myname2</string>
+			<key>uniqueIdentifier</key>
+			<string>1B64AB53-0F80-4800-AFA4-110BE8C3A846</string>
+		</dict>
+		<key>61B8A3B5-0A30-4F15-B7C5-C8F9C1947A93</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>61B8A3B5-0A30-4F15-B7C5-C8F9C1947A93.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Myname2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Myname2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Myname2</string>
+			<key>timeStartedRecording</key>
+			<real>665948485.39142203</real>
+			<key>timeStoppedRecording</key>
+			<real>665948528.27404702</real>
+			<key>title</key>
+			<string>Run Myname2</string>
+			<key>uniqueIdentifier</key>
+			<string>61B8A3B5-0A30-4F15-B7C5-C8F9C1947A93</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

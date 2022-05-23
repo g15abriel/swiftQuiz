@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>01D0BADA-57D0-488B-978C-E182DD3A3C74</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>01D0BADA-57D0-488B-978C-E182DD3A3C74.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>MyEmotion Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664119417.63964701</real>
+			<key>timeStoppedRecording</key>
+			<real>664119417.97372103</real>
+			<key>title</key>
+			<string>MyEmotion Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>01D0BADA-57D0-488B-978C-E182DD3A3C74</string>
+		</dict>
+		<key>18EA14FB-DD11-429A-A3A4-5A8F964C33D6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>18EA14FB-DD11-429A-A3A4-5A8F964C33D6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>MyEmotion Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664119085.22457099</real>
+			<key>timeStoppedRecording</key>
+			<real>664119085.29245198</real>
+			<key>title</key>
+			<string>MyEmotion Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>18EA14FB-DD11-429A-A3A4-5A8F964C33D6</string>
+		</dict>
+		<key>20B32D51-4B22-4C22-9680-FC09801278DE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>20B32D51-4B22-4C22-9680-FC09801278DE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>MyEmotion Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664119065.12567699</real>
+			<key>timeStoppedRecording</key>
+			<real>664119065.50857306</real>
+			<key>title</key>
+			<string>MyEmotion Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>20B32D51-4B22-4C22-9680-FC09801278DE</string>
+		</dict>
+		<key>28063D93-A21D-43E7-AC52-FA212F32E9E3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>28063D93-A21D-43E7-AC52-FA212F32E9E3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>MyEmotion Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664118089.86041105</real>
+			<key>timeStoppedRecording</key>
+			<real>664118089.94709694</real>
+			<key>title</key>
+			<string>MyEmotion Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>28063D93-A21D-43E7-AC52-FA212F32E9E3</string>
+		</dict>
+		<key>52402D57-1259-4502-879F-4C6FFF228860</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>52402D57-1259-4502-879F-4C6FFF228860.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>MyEmotion Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664119503.46839797</real>
+			<key>timeStoppedRecording</key>
+			<real>664119503.80269098</real>
+			<key>title</key>
+			<string>MyEmotion Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>52402D57-1259-4502-879F-4C6FFF228860</string>
+		</dict>
+		<key>5FF12810-E2D6-4028-A670-FC0AFED8781C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>5FF12810-E2D6-4028-A670-FC0AFED8781C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>664118089.64812696</real>
+			<key>timeStoppedRecording</key>
+			<real>664118089.85150194</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>5FF12810-E2D6-4028-A670-FC0AFED8781C</string>
+		</dict>
+		<key>80AF1D0A-1845-4802-9476-EFEB9B7DD8D5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>80AF1D0A-1845-4802-9476-EFEB9B7DD8D5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>MyEmotion Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664119192.309708</real>
+			<key>timeStoppedRecording</key>
+			<real>664119192.35551405</real>
+			<key>title</key>
+			<string>MyEmotion Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>80AF1D0A-1845-4802-9476-EFEB9B7DD8D5</string>
+		</dict>
+		<key>910BE02F-FB4E-4192-AC0D-F85CCB1E85CB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>910BE02F-FB4E-4192-AC0D-F85CCB1E85CB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>MyEmotion Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664119351.45582998</real>
+			<key>timeStoppedRecording</key>
+			<real>664119351.52060199</real>
+			<key>title</key>
+			<string>MyEmotion Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>910BE02F-FB4E-4192-AC0D-F85CCB1E85CB</string>
+		</dict>
+		<key>AE91DC6C-E010-4B43-80DA-85388F594C5E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>AE91DC6C-E010-4B43-80DA-85388F594C5E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>MyEmotion Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664119672.63999701</real>
+			<key>timeStoppedRecording</key>
+			<real>664119672.79257202</real>
+			<key>title</key>
+			<string>MyEmotion Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>AE91DC6C-E010-4B43-80DA-85388F594C5E</string>
+		</dict>
+		<key>C770D8D9-AE19-428E-B533-46298924CA2E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C770D8D9-AE19-428E-B533-46298924CA2E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>MyEmotion Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664119274.86577106</real>
+			<key>timeStoppedRecording</key>
+			<real>664119274.94385695</real>
+			<key>title</key>
+			<string>MyEmotion Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>C770D8D9-AE19-428E-B533-46298924CA2E</string>
+		</dict>
+		<key>CEC62175-C4A7-47E6-A75D-6AAC315FE1DC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>CEC62175-C4A7-47E6-A75D-6AAC315FE1DC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>MyEmotion Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664119632.73628497</real>
+			<key>timeStoppedRecording</key>
+			<real>664119632.78201997</real>
+			<key>title</key>
+			<string>MyEmotion Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>CEC62175-C4A7-47E6-A75D-6AAC315FE1DC</string>
+		</dict>
+		<key>FE265F2E-D1F6-4D46-8C45-651B0987B6D0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>FE265F2E-D1F6-4D46-8C45-651B0987B6D0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>MyEmotion Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664119239.71931005</real>
+			<key>timeStoppedRecording</key>
+			<real>664119239.77544498</real>
+			<key>title</key>
+			<string>MyEmotion Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>FE265F2E-D1F6-4D46-8C45-651B0987B6D0</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+MyName in MyName, no dependencies
+MyName in MyName, no dependencies

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>762B9058-C718-4975-9F92-7014FBFCA87B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>762B9058-C718-4975-9F92-7014FBFCA87B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>myApp</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>myApp (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build myApp (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>664464233.109707</real>
+			<key>timeStoppedRecording</key>
+			<real>664464233.17716503</real>
+			<key>title</key>
+			<string>Build myApp (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>762B9058-C718-4975-9F92-7014FBFCA87B</string>
+		</dict>
+		<key>CF129F24-9962-4983-A52C-BD74DD24DDCB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CF129F24-9962-4983-A52C-BD74DD24DDCB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>myApp</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>myApp (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build myApp (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>664467624.32324696</real>
+			<key>timeStoppedRecording</key>
+			<real>664467624.62606502</real>
+			<key>title</key>
+			<string>Build myApp (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>CF129F24-9962-4983-A52C-BD74DD24DDCB</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

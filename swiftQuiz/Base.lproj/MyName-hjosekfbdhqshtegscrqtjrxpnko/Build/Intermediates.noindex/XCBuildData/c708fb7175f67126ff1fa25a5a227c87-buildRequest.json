@@ -1,0 +1,63 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "79d6d1630af26cc77ee6b2e1d506354be02ee6904b80aeb513afc1f950113294"
+    }
+  ],
+  "containerPath" : "/Users/claudiamalheiros/Documents/IOS/Coding Club/MyName/MyName.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj/MyName-hjosekfbdhqshtegscrqtjrxpnko/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj/MyName-hjosekfbdhqshtegscrqtjrxpnko/Build/Products",
+      "derivedDataPath" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj",
+      "indexDataStoreFolderPath" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj/MyName-hjosekfbdhqshtegscrqtjrxpnko/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj/MyName-hjosekfbdhqshtegscrqtjrxpnko/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj/MyName-hjosekfbdhqshtegscrqtjrxpnko/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone12,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "DC6338A8-9D03-47D5-B874-DC3C309844EA",
+          "TARGET_DEVICE_MODEL" : "iPhone12,1",
+          "TARGET_DEVICE_OS_VERSION" : "15.2",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

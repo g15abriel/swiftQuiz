@@ -1,0 +1,1 @@
+/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj/swiftQuiz-bmytjqmxqzhaerfqzcymcrzqchem/Build/Intermediates.noindex/ArchiveIntermediates/swiftQuiz/InstallationBuildProductsLocation/Applications/swiftQuiz.app

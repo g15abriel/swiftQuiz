@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1643638025, 869998931]
+build_end_time: [1643638026, 898277997]
+inputs:
+  "/Users/claudiamalheiros/Documents/IOS/Test01K/Test01K/AppDelegate.swift": [1643636204, 296892881]
+  "/Users/claudiamalheiros/Documents/IOS/Test01K/Test01K/SceneDelegate.swift": [1643636204, 300297260]
+  "/Users/claudiamalheiros/Documents/IOS/Test01K/Test01K/ViewController.swift": [1643638003, 727778673]

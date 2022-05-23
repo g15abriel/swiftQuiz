@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1642426878, 161036014]
+build_end_time: [1642426879, 72855949]
+inputs:
+  "/Users/claudiamalheiros/Documents/IOS/Coding Club/MyEmotion/MyEmotion/AppDelegate.swift": [1642425280, 414912700]
+  "/Users/claudiamalheiros/Documents/IOS/Coding Club/MyEmotion/MyEmotion/SceneDelegate.swift": [1642425280, 418552875]
+  "/Users/claudiamalheiros/Documents/IOS/Coding Club/MyEmotion/MyEmotion/ViewController.swift": [1642426872, 590112447]

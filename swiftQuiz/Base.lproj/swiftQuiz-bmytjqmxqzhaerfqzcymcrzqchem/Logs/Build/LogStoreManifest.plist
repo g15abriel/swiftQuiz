@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0A16D569-5421-4589-9297-52DFED43A2A0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0A16D569-5421-4589-9297-52DFED43A2A0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>swiftQuiz project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>swiftQuiz</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Archive swiftQuiz</string>
+			<key>timeStartedRecording</key>
+			<real>671985537.76329005</real>
+			<key>timeStoppedRecording</key>
+			<real>671985550.46769297</real>
+			<key>title</key>
+			<string>Archive swiftQuiz</string>
+			<key>uniqueIdentifier</key>
+			<string>0A16D569-5421-4589-9297-52DFED43A2A0</string>
+		</dict>
+		<key>156BA587-F5BB-491E-9BDC-41BEFF1BBF71</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>156BA587-F5BB-491E-9BDC-41BEFF1BBF71.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>swiftQuiz project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>swiftQuiz</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Archive swiftQuiz</string>
+			<key>timeStartedRecording</key>
+			<real>671985030.48234999</real>
+			<key>timeStoppedRecording</key>
+			<real>671985046.12118602</real>
+			<key>title</key>
+			<string>Archive swiftQuiz</string>
+			<key>uniqueIdentifier</key>
+			<string>156BA587-F5BB-491E-9BDC-41BEFF1BBF71</string>
+		</dict>
+		<key>4FE6388A-DED0-4002-B847-B4F832BFE46A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4FE6388A-DED0-4002-B847-B4F832BFE46A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>swiftQuiz project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>swiftQuiz</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Archive swiftQuiz</string>
+			<key>timeStartedRecording</key>
+			<real>671985229.28153706</real>
+			<key>timeStoppedRecording</key>
+			<real>671985245.90094995</real>
+			<key>title</key>
+			<string>Archive swiftQuiz</string>
+			<key>uniqueIdentifier</key>
+			<string>4FE6388A-DED0-4002-B847-B4F832BFE46A</string>
+		</dict>
+		<key>7EFC7F4D-1BD2-4F89-ACAB-3A6241E433BF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7EFC7F4D-1BD2-4F89-ACAB-3A6241E433BF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>swiftQuiz project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>swiftQuiz</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Archive swiftQuiz</string>
+			<key>timeStartedRecording</key>
+			<real>671983799.22863901</real>
+			<key>timeStoppedRecording</key>
+			<real>671984475.44335401</real>
+			<key>title</key>
+			<string>Archive swiftQuiz</string>
+			<key>uniqueIdentifier</key>
+			<string>7EFC7F4D-1BD2-4F89-ACAB-3A6241E433BF</string>
+		</dict>
+		<key>9AF2030F-BEF2-4E17-8F06-F3349047BF0B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9AF2030F-BEF2-4E17-8F06-F3349047BF0B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>swiftQuiz project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>swiftQuiz</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build swiftQuiz</string>
+			<key>timeStartedRecording</key>
+			<real>671392987.69995606</real>
+			<key>timeStoppedRecording</key>
+			<real>671392987.77395105</real>
+			<key>title</key>
+			<string>Build swiftQuiz</string>
+			<key>uniqueIdentifier</key>
+			<string>9AF2030F-BEF2-4E17-8F06-F3349047BF0B</string>
+		</dict>
+		<key>B3EE1245-CE66-498D-B1F3-4A3CCADCFE43</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B3EE1245-CE66-498D-B1F3-4A3CCADCFE43.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>swiftQuiz project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>swiftQuiz</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Archive swiftQuiz</string>
+			<key>timeStartedRecording</key>
+			<real>671985768.70783806</real>
+			<key>timeStoppedRecording</key>
+			<real>671985780.92264497</real>
+			<key>title</key>
+			<string>Archive swiftQuiz</string>
+			<key>uniqueIdentifier</key>
+			<string>B3EE1245-CE66-498D-B1F3-4A3CCADCFE43</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

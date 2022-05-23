@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1642423831, 776252031]
+build_end_time: [1642423833, 41764974]
+inputs:
+  "/Users/claudiamalheiros/Documents/IOS/Coding Club/Soma/Soma/AppDelegate.swift": [1642422206, 425233364]
+  "/Users/claudiamalheiros/Documents/IOS/Coding Club/Soma/Soma/SceneDelegate.swift": [1642422206, 429356098]
+  "/Users/claudiamalheiros/Documents/IOS/Coding Club/Soma/Soma/ViewController.swift": [1642423827, 938855171]

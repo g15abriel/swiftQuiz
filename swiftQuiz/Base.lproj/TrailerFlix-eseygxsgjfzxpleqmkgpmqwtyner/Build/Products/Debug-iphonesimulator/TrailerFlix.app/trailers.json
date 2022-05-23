@@ -1,0 +1,71 @@
+[{
+		"title": "It: A Coisa",
+		"url": "http://trailers.apple.com/movies/wb/it/it-trailer-2_h720p.mov",
+		"rating": 0,
+		"year": 2017,
+		"poster": "it"
+	},
+	{
+		"title": "Liga da Justiça",
+		"url": "http://trailers.apple.com/movies/wb/justiceleague/justice-league-trailer-3_h720p.mov",
+		"rating": 0,
+		"year": 2017,
+		"poster": "ligajustica"
+	},
+	{
+		"title": "Star Wars: The Last Jedi",
+		"url": "http://trailers.apple.com/movies/lucasfilm/star-wars-the-last-jedi/star-wars-the-last-jedi-trailer-2_h720p.mov",
+		"rating": 0,
+		"year": 2017,
+		"poster": "lastjedi"
+	},
+	{
+		"title": "Mãe!",
+		"url": "http://trailers.apple.com/movies/paramount/mother/mother-clip-full_h720p.mov",
+		"rating": 7,
+		"year": 2017,
+		"poster": "mother"
+	},
+	{
+		"title": "Thor: Ragnarok",
+		"url": "http://trailers.apple.com/movies/marvel/thor-ragnarok/thor-ragnarok-trailer-2_h720p.mov",
+		"rating": 0,
+		"year": 2017,
+		"poster": "thorragnarok"
+	},
+	{
+		"title": "Blade Runner 2049",
+		"url": "http://trailers.apple.com/movies/wb/blade-runner-2049/blade-runner-2049-featurette-2048-nowhere-to-run_h720p.mov",
+		"rating": 0,
+		"year": 2017,
+		"poster": "bladerunner2049"
+	},
+	{
+		"title": "Círculo de Fogo: A Revolta",
+		"url": "http://trailers.apple.com/movies/universal/pacific-rim-uprising/pacific-rim-uprising-trailer-1_h720p.mov",
+		"rating": 0,
+		"year": 2018,
+		"poster": "pacificrim2"
+	},
+	{
+		"title": "Emoji: O Filme",
+		"url": "http://trailers.apple.com/movies/sony_pictures/the-emoji-movie/the-emoji-movie-trailer-2_h720p.mov",
+		"rating": 3,
+		"year": 2017,
+		"poster": "emoji"
+	},
+	{
+		"title": "Pantera Negra",
+		"url": "http://trailers.apple.com/movies/marvel/black-panther/black-panther-trailer-1_h720p.mov",
+		"rating": 0,
+		"year": 2018,
+		"poster": "blackpanther"
+	},
+	{
+		"title": "Planeta dos Macacos: A Guerra",
+		"url": "http://trailers.apple.com/movies/fox/war-for-the-planet-of-the-apes/war-for-the-planet-of-the-apes-trailer-3_h720p.mov",
+		"rating": 8,
+		"year": 2017,
+		"poster": "warplanetapes"
+	}
+]

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>98A62168-F99B-4B13-B584-A9FE5536C20E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>98A62168-F99B-4B13-B584-A9FE5536C20E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Soma project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Soma</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Soma</string>
+			<key>timeStartedRecording</key>
+			<real>664116726.74443603</real>
+			<key>timeStoppedRecording</key>
+			<real>664116728.12666404</real>
+			<key>title</key>
+			<string>Build Soma</string>
+			<key>uniqueIdentifier</key>
+			<string>98A62168-F99B-4B13-B584-A9FE5536C20E</string>
+		</dict>
+		<key>DCBDEB01-8745-4B7C-A727-8553C30C0E1A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DCBDEB01-8745-4B7C-A727-8553C30C0E1A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Soma project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Soma</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Soma</string>
+			<key>timeStartedRecording</key>
+			<real>664116627.99535894</real>
+			<key>timeStoppedRecording</key>
+			<real>664116636.55936205</real>
+			<key>title</key>
+			<string>Build Soma</string>
+			<key>uniqueIdentifier</key>
+			<string>DCBDEB01-8745-4B7C-A727-8553C30C0E1A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

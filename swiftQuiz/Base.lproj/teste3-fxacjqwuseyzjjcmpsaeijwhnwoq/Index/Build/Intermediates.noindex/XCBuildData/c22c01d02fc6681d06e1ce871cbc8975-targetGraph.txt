@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+teste3 in teste3, no dependencies
+teste3 in teste3, no dependencies

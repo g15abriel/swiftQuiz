@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1642087360, 234179019]
+build_end_time: [1642087361, 564743995]
+inputs:
+  "/Users/claudiamalheiros/Documents/IOS/TrailerFlix/TrailerFlix/AppDelegate.swift": [1641566699, 187988281]
+  "/Users/claudiamalheiros/Documents/IOS/TrailerFlix/TrailerFlix/QuestionsViewController.swift": [1642087095, 525921344]
+  "/Users/claudiamalheiros/Documents/IOS/TrailerFlix/TrailerFlix/SceneDelegate.swift": [1641566699, 199264526]
+  "/Users/claudiamalheiros/Documents/IOS/TrailerFlix/TrailerFlix/TrailerViewController.swift": [1642087095, 542274951]
+  "/Users/claudiamalheiros/Documents/IOS/TrailerFlix/TrailerFlix/ViewController.swift": [1642085419, 851621627]
+  "/Users/claudiamalheiros/Documents/IOS/TrailerFlix/TrailerFlix/trailers.swift": [1642008524, 946549415]

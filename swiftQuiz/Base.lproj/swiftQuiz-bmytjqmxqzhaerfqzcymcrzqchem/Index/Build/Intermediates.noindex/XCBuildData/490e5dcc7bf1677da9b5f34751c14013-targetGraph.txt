@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+swiftQuiz in swiftQuiz, no dependencies
+swiftQuiz in swiftQuiz, no dependencies

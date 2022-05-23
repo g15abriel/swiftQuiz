@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+APPDAKAMILY in APPDAKAMILY, no dependencies

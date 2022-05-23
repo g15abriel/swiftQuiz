@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>68397A18-1DBA-46FE-94B0-2BF158316EFE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>68397A18-1DBA-46FE-94B0-2BF158316EFE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SOMADEDOISNUMEROS project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SOMADEDOISNUMEROS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SOMADEDOISNUMEROS</string>
+			<key>timeStartedRecording</key>
+			<real>665523145.07393003</real>
+			<key>timeStoppedRecording</key>
+			<real>665523153.73578203</real>
+			<key>title</key>
+			<string>Build SOMADEDOISNUMEROS</string>
+			<key>uniqueIdentifier</key>
+			<string>68397A18-1DBA-46FE-94B0-2BF158316EFE</string>
+		</dict>
+		<key>83585068-18E9-4EC5-88B0-0D70E44BA80A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>83585068-18E9-4EC5-88B0-0D70E44BA80A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SOMADEDOISNUMEROS project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SOMADEDOISNUMEROS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SOMADEDOISNUMEROS</string>
+			<key>timeStartedRecording</key>
+			<real>665523216.80124104</real>
+			<key>timeStoppedRecording</key>
+			<real>665523217.43082297</real>
+			<key>title</key>
+			<string>Build SOMADEDOISNUMEROS</string>
+			<key>uniqueIdentifier</key>
+			<string>83585068-18E9-4EC5-88B0-0D70E44BA80A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

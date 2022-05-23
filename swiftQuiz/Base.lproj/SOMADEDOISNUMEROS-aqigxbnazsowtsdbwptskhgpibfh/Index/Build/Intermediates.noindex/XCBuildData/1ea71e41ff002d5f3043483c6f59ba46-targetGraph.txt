@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+SOMADEDOISNUMEROS in SOMADEDOISNUMEROS, no dependencies
+SOMADEDOISNUMEROS in SOMADEDOISNUMEROS, no dependencies

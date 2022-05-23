@@ -1,0 +1,80 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "d272f69b2c24bf72dcdc9ddd849f44f9700dd9bf657c9070556c6e30b5340597"
+    }
+  ],
+  "containerPath" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "install",
+    "activeArchitecture" : "arm64e",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos15.2",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "arm64e"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj/swiftQuiz-bmytjqmxqzhaerfqzcymcrzqchem/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj/swiftQuiz-bmytjqmxqzhaerfqzcymcrzqchem/Build/Products",
+      "derivedDataPath" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj",
+      "indexDataStoreFolderPath" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj/swiftQuiz-bmytjqmxqzhaerfqzcymcrzqchem/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj/swiftQuiz-bmytjqmxqzhaerfqzcymcrzqchem/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj/swiftQuiz-bmytjqmxqzhaerfqzcymcrzqchem/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "install",
+          "ASSET_PACK_FOLDER_PATH" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj/swiftQuiz-bmytjqmxqzhaerfqzcymcrzqchem/Build/Intermediates.noindex/ArchiveIntermediates/swiftQuiz/InstallationBuildProductsLocation/OnDemandResources",
+          "BITCODE_GENERATION_MODE" : "bitcode",
+          "DEPLOYMENT_LOCATION" : "YES",
+          "DEPLOYMENT_POSTPROCESSING" : "YES",
+          "DSTROOT" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj/swiftQuiz-bmytjqmxqzhaerfqzcymcrzqchem/Build/Intermediates.noindex/ArchiveIntermediates/swiftQuiz/InstallationBuildProductsLocation",
+          "EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE" : "NO",
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ENABLE_DATA_STORE" : "NO",
+          "MESSAGES_APPLICATION_EXTENSION_SUPPORT_FOLDER_PATH" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj/swiftQuiz-bmytjqmxqzhaerfqzcymcrzqchem/Build/Intermediates.noindex/ArchiveIntermediates/swiftQuiz/BuildProductsPath/MessagesApplicationExtensionSupport",
+          "MESSAGES_APPLICATION_SUPPORT_FOLDER_PATH" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj/swiftQuiz-bmytjqmxqzhaerfqzcymcrzqchem/Build/Intermediates.noindex/ArchiveIntermediates/swiftQuiz/BuildProductsPath/MessagesApplicationSupport",
+          "OBJROOT" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj/swiftQuiz-bmytjqmxqzhaerfqzcymcrzqchem/Build/Intermediates.noindex/ArchiveIntermediates/swiftQuiz/IntermediateBuildFilesPath",
+          "SHARED_PRECOMPS_DIR" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj/swiftQuiz-bmytjqmxqzhaerfqzcymcrzqchem/Build/Intermediates.noindex/ArchiveIntermediates/swiftQuiz/PrecompiledHeaders",
+          "SWIFT_STDLIB_TOOL_UNSIGNED_DESTINATION_DIR" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj/swiftQuiz-bmytjqmxqzhaerfqzcymcrzqchem/Build/Intermediates.noindex/ArchiveIntermediates/swiftQuiz/BuildProductsPath/SwiftSupport",
+          "SYMROOT" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj/swiftQuiz-bmytjqmxqzhaerfqzcymcrzqchem/Build/Intermediates.noindex/ArchiveIntermediates/swiftQuiz/BuildProductsPath",
+          "WATCHKIT_2_SUPPORT_FOLDER_PATH" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj/swiftQuiz-bmytjqmxqzhaerfqzcymcrzqchem/Build/Intermediates.noindex/ArchiveIntermediates/swiftQuiz/BuildProductsPath/WatchKitSupport2",
+          "WATCHKIT_SUPPORT_FOLDER_PATH" : "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Base.lproj/swiftQuiz-bmytjqmxqzhaerfqzcymcrzqchem/Build/Intermediates.noindex/ArchiveIntermediates/swiftQuiz/BuildProductsPath/WatchKitSupport"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "archive",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

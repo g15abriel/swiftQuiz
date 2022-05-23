@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>03A3636A-502A-4745-8A22-662D3CBFEBCE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>03A3636A-502A-4745-8A22-662D3CBFEBCE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Loteria Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664461309.04232895</real>
+			<key>timeStoppedRecording</key>
+			<real>664461309.14517701</real>
+			<key>title</key>
+			<string>Loteria Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>03A3636A-502A-4745-8A22-662D3CBFEBCE</string>
+		</dict>
+		<key>0F428059-5D59-4671-88F5-07F471A0F6BD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>0F428059-5D59-4671-88F5-07F471A0F6BD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Loteria Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664461512.62432206</real>
+			<key>timeStoppedRecording</key>
+			<real>664461512.68686497</real>
+			<key>title</key>
+			<string>Loteria Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>0F428059-5D59-4671-88F5-07F471A0F6BD</string>
+		</dict>
+		<key>0FC885DD-0F91-44B2-B6A4-4304854338E6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>0FC885DD-0F91-44B2-B6A4-4304854338E6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Loteria Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664461329.86393297</real>
+			<key>timeStoppedRecording</key>
+			<real>664461329.91524506</real>
+			<key>title</key>
+			<string>Loteria Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>0FC885DD-0F91-44B2-B6A4-4304854338E6</string>
+		</dict>
+		<key>10345B24-9772-4336-9DD3-18A22B80449E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>10345B24-9772-4336-9DD3-18A22B80449E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Loteria Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>664461307.01196802</real>
+			<key>timeStoppedRecording</key>
+			<real>664461309.03654206</real>
+			<key>title</key>
+			<string>Loteria Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>10345B24-9772-4336-9DD3-18A22B80449E</string>
+		</dict>
+		<key>2079A115-ECDC-4142-9C16-49DC28AE27F2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>2079A115-ECDC-4142-9C16-49DC28AE27F2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Loteria Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664462734.01036799</real>
+			<key>timeStoppedRecording</key>
+			<real>664462734.06226003</real>
+			<key>title</key>
+			<string>Loteria Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>2079A115-ECDC-4142-9C16-49DC28AE27F2</string>
+		</dict>
+		<key>21B469EA-46E6-406B-AC66-59D1C40E279D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>21B469EA-46E6-406B-AC66-59D1C40E279D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Loteria Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664462420.69014096</real>
+			<key>timeStoppedRecording</key>
+			<real>664462420.75582397</real>
+			<key>title</key>
+			<string>Loteria Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>21B469EA-46E6-406B-AC66-59D1C40E279D</string>
+		</dict>
+		<key>29E9CAB2-2310-42D1-B488-280C622750C1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>29E9CAB2-2310-42D1-B488-280C622750C1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Loteria Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664463036.37617099</real>
+			<key>timeStoppedRecording</key>
+			<real>664463036.43268895</real>
+			<key>title</key>
+			<string>Loteria Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>29E9CAB2-2310-42D1-B488-280C622750C1</string>
+		</dict>
+		<key>2E8A075F-903C-4DE6-A7DA-02DAFCED5788</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>2E8A075F-903C-4DE6-A7DA-02DAFCED5788.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Loteria Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664461808.45918095</real>
+			<key>timeStoppedRecording</key>
+			<real>664461808.59438705</real>
+			<key>title</key>
+			<string>Loteria Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>2E8A075F-903C-4DE6-A7DA-02DAFCED5788</string>
+		</dict>
+		<key>38728C33-8F03-4B19-9985-1AF9FFD49141</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>38728C33-8F03-4B19-9985-1AF9FFD49141.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Loteria Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664463328.60561204</real>
+			<key>timeStoppedRecording</key>
+			<real>664463328.85030603</real>
+			<key>title</key>
+			<string>Loteria Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>38728C33-8F03-4B19-9985-1AF9FFD49141</string>
+		</dict>
+		<key>4CD1E07E-F68E-4F46-AFFE-A89DF3021501</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>4CD1E07E-F68E-4F46-AFFE-A89DF3021501.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Loteria Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664463147.93537295</real>
+			<key>timeStoppedRecording</key>
+			<real>664463147.99243903</real>
+			<key>title</key>
+			<string>Loteria Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>4CD1E07E-F68E-4F46-AFFE-A89DF3021501</string>
+		</dict>
+		<key>51B489EB-5718-44E8-A0BB-88766234B3A2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>51B489EB-5718-44E8-A0BB-88766234B3A2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Loteria Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664462701.93183506</real>
+			<key>timeStoppedRecording</key>
+			<real>664462701.97736704</real>
+			<key>title</key>
+			<string>Loteria Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>51B489EB-5718-44E8-A0BB-88766234B3A2</string>
+		</dict>
+		<key>6B68F1C1-E264-47FD-9E91-868C2809C8AB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>6B68F1C1-E264-47FD-9E91-868C2809C8AB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Loteria Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664463002.19624603</real>
+			<key>timeStoppedRecording</key>
+			<real>664463002.26223397</real>
+			<key>title</key>
+			<string>Loteria Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>6B68F1C1-E264-47FD-9E91-868C2809C8AB</string>
+		</dict>
+		<key>6C8ED6D0-CFEB-4C91-BD84-530575E81A3D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>6C8ED6D0-CFEB-4C91-BD84-530575E81A3D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Loteria Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664463303.13547599</real>
+			<key>timeStoppedRecording</key>
+			<real>664463303.20125902</real>
+			<key>title</key>
+			<string>Loteria Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>6C8ED6D0-CFEB-4C91-BD84-530575E81A3D</string>
+		</dict>
+		<key>7329288C-1A12-4064-A259-656B5523D4F1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>7329288C-1A12-4064-A259-656B5523D4F1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Loteria Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664463117.45578003</real>
+			<key>timeStoppedRecording</key>
+			<real>664463117.51111805</real>
+			<key>title</key>
+			<string>Loteria Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>7329288C-1A12-4064-A259-656B5523D4F1</string>
+		</dict>
+		<key>91A3EAD9-307F-47B5-A289-C719570BD36A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>91A3EAD9-307F-47B5-A289-C719570BD36A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Loteria Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664123184.00009096</real>
+			<key>timeStoppedRecording</key>
+			<real>664123184.184461</real>
+			<key>title</key>
+			<string>Loteria Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>91A3EAD9-307F-47B5-A289-C719570BD36A</string>
+		</dict>
+		<key>99641AFC-44C1-41B0-B2A9-B6C29EE52C57</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>99641AFC-44C1-41B0-B2A9-B6C29EE52C57.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Loteria Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664463574.13498497</real>
+			<key>timeStoppedRecording</key>
+			<real>664463574.48382699</real>
+			<key>title</key>
+			<string>Loteria Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>99641AFC-44C1-41B0-B2A9-B6C29EE52C57</string>
+		</dict>
+		<key>9B319BC4-BCFF-4F13-96AC-4499004C4B1B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>9B319BC4-BCFF-4F13-96AC-4499004C4B1B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Loteria Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664461348.69684398</real>
+			<key>timeStoppedRecording</key>
+			<real>664461348.73728395</real>
+			<key>title</key>
+			<string>Loteria Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>9B319BC4-BCFF-4F13-96AC-4499004C4B1B</string>
+		</dict>
+		<key>9EF37166-880D-433D-8964-C02B31C6F4A6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>9EF37166-880D-433D-8964-C02B31C6F4A6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Loteria Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664462571.34679496</real>
+			<key>timeStoppedRecording</key>
+			<real>664462571.41264796</real>
+			<key>title</key>
+			<string>Loteria Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>9EF37166-880D-433D-8964-C02B31C6F4A6</string>
+		</dict>
+		<key>A1AA7F3D-8739-40C9-B888-497D864DAA20</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>A1AA7F3D-8739-40C9-B888-497D864DAA20.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Loteria Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664462868.01856899</real>
+			<key>timeStoppedRecording</key>
+			<real>664462868.08503103</real>
+			<key>title</key>
+			<string>Loteria Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>A1AA7F3D-8739-40C9-B888-497D864DAA20</string>
+		</dict>
+		<key>B1E9B4D1-B161-42C1-BE75-CC278A0EE732</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B1E9B4D1-B161-42C1-BE75-CC278A0EE732.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>664461307.01157606</real>
+			<key>timeStoppedRecording</key>
+			<real>664461309.08106804</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>B1E9B4D1-B161-42C1-BE75-CC278A0EE732</string>
+		</dict>
+		<key>B44D58B5-963C-47CB-9E32-D573EA2398D6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B44D58B5-963C-47CB-9E32-D573EA2398D6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Loteria Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664463377.23935497</real>
+			<key>timeStoppedRecording</key>
+			<real>664463377.29512</real>
+			<key>title</key>
+			<string>Loteria Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>B44D58B5-963C-47CB-9E32-D573EA2398D6</string>
+		</dict>
+		<key>B6F8CB3E-56D3-4FF6-AFBD-8B2A89CB953E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B6F8CB3E-56D3-4FF6-AFBD-8B2A89CB953E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>664461306.80985105</real>
+			<key>timeStoppedRecording</key>
+			<real>664461307.00481999</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>B6F8CB3E-56D3-4FF6-AFBD-8B2A89CB953E</string>
+		</dict>
+		<key>B766BA53-71BD-4B93-AFB1-C1A90FC8A8C1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B766BA53-71BD-4B93-AFB1-C1A90FC8A8C1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Loteria Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664463191.96167195</real>
+			<key>timeStoppedRecording</key>
+			<real>664463192.20718503</real>
+			<key>title</key>
+			<string>Loteria Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>B766BA53-71BD-4B93-AFB1-C1A90FC8A8C1</string>
+		</dict>
+		<key>C669D3E9-F567-4E08-A8BF-DA6515A613BC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C669D3E9-F567-4E08-A8BF-DA6515A613BC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Loteria Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664461368.63902497</real>
+			<key>timeStoppedRecording</key>
+			<real>664461368.69743705</real>
+			<key>title</key>
+			<string>Loteria Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>C669D3E9-F567-4E08-A8BF-DA6515A613BC</string>
+		</dict>
+		<key>CAD24D7A-F321-4DBF-947C-041551BAFE49</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>CAD24D7A-F321-4DBF-947C-041551BAFE49.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Loteria Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664461463.41284394</real>
+			<key>timeStoppedRecording</key>
+			<real>664461463.46928</real>
+			<key>title</key>
+			<string>Loteria Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>CAD24D7A-F321-4DBF-947C-041551BAFE49</string>
+		</dict>
+		<key>D7AF0F01-2C62-4BE9-B98B-7ED2F24AED4E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>D7AF0F01-2C62-4BE9-B98B-7ED2F24AED4E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Loteria Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664461400.553334</real>
+			<key>timeStoppedRecording</key>
+			<real>664461400.61003304</real>
+			<key>title</key>
+			<string>Loteria Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>D7AF0F01-2C62-4BE9-B98B-7ED2F24AED4E</string>
+		</dict>
+		<key>DDD54023-3C5B-489A-B766-AE8C78D0FB9B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>DDD54023-3C5B-489A-B766-AE8C78D0FB9B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Loteria Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664463414.01433599</real>
+			<key>timeStoppedRecording</key>
+			<real>664463414.071962</real>
+			<key>title</key>
+			<string>Loteria Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>DDD54023-3C5B-489A-B766-AE8C78D0FB9B</string>
+		</dict>
+		<key>DFB5F56B-169A-4492-A6DA-A9B564E07E01</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>DFB5F56B-169A-4492-A6DA-A9B564E07E01.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Loteria Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664462749.10802698</real>
+			<key>timeStoppedRecording</key>
+			<real>664462749.14734197</real>
+			<key>title</key>
+			<string>Loteria Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>DFB5F56B-169A-4492-A6DA-A9B564E07E01</string>
+		</dict>
+		<key>F9B78745-201A-4CE4-9303-BF8AD495C5E1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>F9B78745-201A-4CE4-9303-BF8AD495C5E1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Loteria Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>664463065.88187099</real>
+			<key>timeStoppedRecording</key>
+			<real>664463065.93780005</real>
+			<key>title</key>
+			<string>Loteria Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>F9B78745-201A-4CE4-9303-BF8AD495C5E1</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

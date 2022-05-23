@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>156F89F5-CCC8-449F-938D-81F9F226C277</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>156F89F5-CCC8-449F-938D-81F9F226C277.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyPlayground</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyPlayground (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build MyPlayground (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>665947536.36847603</real>
+			<key>timeStoppedRecording</key>
+			<real>665947536.44479096</real>
+			<key>title</key>
+			<string>Build MyPlayground (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>156F89F5-CCC8-449F-938D-81F9F226C277</string>
+		</dict>
+		<key>30A1B05F-031E-4224-83CE-A9B3552229E4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>30A1B05F-031E-4224-83CE-A9B3552229E4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyPlayground</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyPlayground (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build MyPlayground (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>665947188.92242002</real>
+			<key>timeStoppedRecording</key>
+			<real>665947189.60376406</real>
+			<key>title</key>
+			<string>Build MyPlayground (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>30A1B05F-031E-4224-83CE-A9B3552229E4</string>
+		</dict>
+		<key>458EA6F0-67C2-4F16-B968-C297AB4FB4D0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>458EA6F0-67C2-4F16-B968-C297AB4FB4D0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyPlayground</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyPlayground (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build MyPlayground (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>665520972.30050194</real>
+			<key>timeStoppedRecording</key>
+			<real>665520972.440624</real>
+			<key>title</key>
+			<string>Build MyPlayground (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>458EA6F0-67C2-4F16-B968-C297AB4FB4D0</string>
+		</dict>
+		<key>7646CA07-9F1E-401D-B269-627B47920122</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7646CA07-9F1E-401D-B269-627B47920122.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyPlayground</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyPlayground (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build MyPlayground (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>665947422.92168999</real>
+			<key>timeStoppedRecording</key>
+			<real>665947423.03138399</real>
+			<key>title</key>
+			<string>Build MyPlayground (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>7646CA07-9F1E-401D-B269-627B47920122</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

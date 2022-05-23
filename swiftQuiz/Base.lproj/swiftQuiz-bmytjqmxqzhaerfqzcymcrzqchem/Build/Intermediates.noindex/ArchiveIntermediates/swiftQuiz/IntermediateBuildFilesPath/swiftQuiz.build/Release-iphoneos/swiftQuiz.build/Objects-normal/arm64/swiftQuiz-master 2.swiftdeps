@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "dc5514e938004a5856e7f9d976d58dd052b5ad3eb5226c7d608ccca5b1245403"
+build_start_time: [1650292739, 901873111]
+build_end_time: [1650292742, 568604946]
+inputs:
+  "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/AppDelegate.swift": [1638619029, 629372596]
+  "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/Quiz.swift": [1640010342, 862341880]
+  "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/QuizManager.swift": [1643294539, 25565624]
+  "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/QuizViewController.swift": [1641223067, 769070148]
+  "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/ResultViewController.swift": [1639404122, 229465007]
+  "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/SceneDelegate.swift": [1638619029, 643807888]
+  "/Users/claudiamalheiros/Documents/IOS/swiftQuiz2/swiftQuiz/ViewController.swift": [1638619029, 646002292]

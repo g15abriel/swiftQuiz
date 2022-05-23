@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+TrailerFlix in TrailerFlix, no dependencies
+TrailerFlix in TrailerFlix, no dependencies

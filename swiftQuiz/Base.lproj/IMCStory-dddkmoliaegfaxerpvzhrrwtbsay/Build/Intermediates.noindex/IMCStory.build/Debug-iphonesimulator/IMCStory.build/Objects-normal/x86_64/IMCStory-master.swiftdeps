@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1645036368, 25041103]
+build_end_time: [1645036369, 285531044]
+inputs:
+  "/Users/claudiamalheiros/Documents/IOS/Coding Club/IMCStory/IMCStory/AppDelegate.swift": [1637418101, 269776821]
+  "/Users/claudiamalheiros/Documents/IOS/Coding Club/IMCStory/IMCStory/SceneDelegate.swift": [1637418101, 280994415]
+  "/Users/claudiamalheiros/Documents/IOS/Coding Club/IMCStory/IMCStory/ViewController.swift": [1637584749, 0]

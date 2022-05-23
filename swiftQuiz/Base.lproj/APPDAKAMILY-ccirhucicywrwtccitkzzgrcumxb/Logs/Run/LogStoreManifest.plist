@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>514CFD1F-B8A3-4D6B-9FE8-36C95CCE3B9A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>514CFD1F-B8A3-4D6B-9FE8-36C95CCE3B9A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>APPDAKAMILY project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>APPDAKAMILY</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run APPDAKAMILY</string>
+			<key>timeStartedRecording</key>
+			<real>665520796.38008201</real>
+			<key>timeStoppedRecording</key>
+			<real>665520885.99526894</real>
+			<key>title</key>
+			<string>Run APPDAKAMILY</string>
+			<key>uniqueIdentifier</key>
+			<string>514CFD1F-B8A3-4D6B-9FE8-36C95CCE3B9A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

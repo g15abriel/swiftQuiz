@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0691EDF8-0705-45A0-9CD7-C7E1F327B54A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0691EDF8-0705-45A0-9CD7-C7E1F327B54A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>IMCStory project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>IMCStory</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build IMCStory</string>
+			<key>timeStartedRecording</key>
+			<real>666729167.87338197</real>
+			<key>timeStoppedRecording</key>
+			<real>666729172.68152702</real>
+			<key>title</key>
+			<string>Build IMCStory</string>
+			<key>uniqueIdentifier</key>
+			<string>0691EDF8-0705-45A0-9CD7-C7E1F327B54A</string>
+		</dict>
+		<key>31FBD433-1E05-41B9-A49A-57CCF5231B56</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>31FBD433-1E05-41B9-A49A-57CCF5231B56.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>IMCStory project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>IMCStory</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean IMCStory</string>
+			<key>timeStartedRecording</key>
+			<real>666729164.63162601</real>
+			<key>timeStoppedRecording</key>
+			<real>666729164.71838701</real>
+			<key>title</key>
+			<string>Clean IMCStory</string>
+			<key>uniqueIdentifier</key>
+			<string>31FBD433-1E05-41B9-A49A-57CCF5231B56</string>
+		</dict>
+		<key>7A8F1DE1-FE01-46D4-8210-3464B7379BA8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7A8F1DE1-FE01-46D4-8210-3464B7379BA8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>IMCStory project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>IMCStory</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build IMCStory</string>
+			<key>timeStartedRecording</key>
+			<real>666729157.27661204</real>
+			<key>timeStoppedRecording</key>
+			<real>666729158.767066</real>
+			<key>title</key>
+			<string>Build IMCStory</string>
+			<key>uniqueIdentifier</key>
+			<string>7A8F1DE1-FE01-46D4-8210-3464B7379BA8</string>
+		</dict>
+		<key>AD960B85-D3F3-4FDD-AD7A-8BD7DBEBC0BA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AD960B85-D3F3-4FDD-AD7A-8BD7DBEBC0BA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>IMCStory project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>IMCStory</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build IMCStory</string>
+			<key>timeStartedRecording</key>
+			<real>664479134.51282299</real>
+			<key>timeStoppedRecording</key>
+			<real>664479135.02372706</real>
+			<key>title</key>
+			<string>Build IMCStory</string>
+			<key>uniqueIdentifier</key>
+			<string>AD960B85-D3F3-4FDD-AD7A-8BD7DBEBC0BA</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
